@@ -1,2 +1,2 @@
 def main() -> None:
-    print("Hello from my-first-project!")
+  print("Hello from branch-1!")
